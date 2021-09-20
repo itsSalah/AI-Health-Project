@@ -1,3 +1,7 @@
 # AI-Health-Project
 
-Still perfecting the models ! :)
+This is only the beginning...
+
+
+First Project Done: Cancer Breast AI Model
+Second Project: WIP
